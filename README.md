@@ -5,7 +5,7 @@
 Inspired by party games of old, The Choicer Voicer is all about doing vocal impressions in various fun game formats.
 
 <p align="center">
-  <a href="https://github.com/YeahMaybeee/The-Choicer-Voicer/releases/download/Release-2/TheChoicerVoicer.exe">
+  <a href="https://github.com/YeahMaybeee/The-Choicer-Voicer/releases/download/Release-3/The.Choicer.Voicer.zip">
     <img src="https://img.shields.io/badge/Download_version_0.4.14_()-121212?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 
@@ -36,7 +36,7 @@ Dub Mode, where you can do a voiceover of your favorite scenes.
 
 ---
 ## ⚙️Installation 
-[<img src="https://img.shields.io/badge/Download_version_0.4.14_()-121212?style=for-the-badge&logo=github&logoColor=white" alt="Download">](https://github.com/YeahMaybeee/The-Choicer-Voicer/releases/download/Release-2/TheChoicerVoicer.exe)
+[<img src="https://img.shields.io/badge/Download_version_0.4.14_()-121212?style=for-the-badge&logo=github&logoColor=white" alt="Download">](https://github.com/YeahMaybeee/The-Choicer-Voicer/releases/download/Release-3/The.Choicer.Voicer.zip)
 
 ## ⚠Warnings⚠
 
